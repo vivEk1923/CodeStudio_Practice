@@ -4,5 +4,5 @@ git status
 git commit -m "Update"
 git push -u origin master
 
-       Commit made successfully  !!
+       echo Commit made successfully  !!
 pause
