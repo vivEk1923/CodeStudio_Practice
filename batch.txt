@@ -1,7 +1,0 @@
-@echo off 
-title Variables
-set message= Default
-echo what is your message ?
-set /p message=
-echo your message is "%message%" !!
-pause

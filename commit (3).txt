@@ -1,9 +1,0 @@
-
-git add .
-git status
-set message= Default
-echo Enter Your Meassage >>
-git commit -m "%message%"
-git push -u origin master
-echo Commit made successfully  !!
-pause
